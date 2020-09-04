@@ -65,7 +65,7 @@
     "minimist": "^1.2.0",
     "mocha": "^2.3.3",
     "moment-timezone": "^0.4.1",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.14.1",
     "phantomjs": "^1.9.18",
     "postcss-cli": "^2.5.1",
     "properties-parser": "^0.3.0",
